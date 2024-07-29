@@ -1,2 +1,2 @@
-# suisbuds.github.io
-blog
+# Blog
+
