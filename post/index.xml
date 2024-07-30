@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo blog</title>
-    <link>https://suisbuds.github.io/post/</link>
-    <description>Recent content in Posts on Hugo blog</description>
+    <title>Posts on suisbuds&#39;s blog</title>
+    <link>http://localhost:33389/post/</link>
+    <description>Recent content in Posts on suisbuds&#39;s blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://suisbuds.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 17:10:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:33389/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:33389/post/test/</link>
+      <pubDate>Fri, 01 Mar 2024 17:10:04 +0800</pubDate>
+      <guid>http://localhost:33389/post/test/</guid>
+      <description>博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以</description>
+    </item>
   </channel>
 </rss>
