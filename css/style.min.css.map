@@ -10,7 +10,7 @@
 		"themes/FixIt/assets/css/_partials/_maps/_code-type.scss",
 		"themes/FixIt/assets/css/_partials/_maps/_colors.scss",
 		"themes/FixIt/assets/css/_partials/_maps/_utilities.scss",
-		"assets/css/_override.scss",
+		"themes/FixIt/assets/css/_override.scss",
 		"themes/FixIt/assets/css/_mixin/_index.scss",
 		"themes/FixIt/assets/css/_mixin/_compatibility.scss",
 		"themes/FixIt/assets/css/_mixin/_link.scss",
@@ -70,7 +70,7 @@
 		"themes/FixIt/assets/css/_page/_offline.scss",
 		"themes/FixIt/assets/css/_page/_friends.scss",
 		"themes/FixIt/assets/css/_core/_patch.scss",
-		"assets/css/_custom.scss"
+		"themes/FixIt/assets/css/_custom.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n@import \"_variables\";\n@import \"_override\";\n@import \"_mixin/index\";\n@import \"_core/root\";\n@import \"_core/base\";\n@import \"_core/layout\";\n@import \"_core/common\";\n@import \"_core/media\";\n@import \"_page\";\n@import \"_core/patch\";\n@import \"_custom\";\n",
