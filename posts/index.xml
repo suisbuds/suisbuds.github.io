@@ -4,5 +4,13 @@
     <link>https://suisbuds.github.io/posts/</link>
     <description>所有文章 | suisbuds&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>suisbuds@gmail.com (suisbuds)</managingEditor>
-      <webMaster>suisbuds@gmail.com (suisbuds)</webMaster><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议</copyright><lastBuildDate>Tue, 30 Jul 2024 19:48:35 &#43;0800</lastBuildDate><atom:link href="https://suisbuds.github.io/posts/" rel="self" type="application/rss+xml" /></channel>
+      <webMaster>suisbuds@gmail.com (suisbuds)</webMaster><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议</copyright><lastBuildDate>Tue, 30 Jul 2024 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://suisbuds.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>My first post</title>
+  <link>https://suisbuds.github.io/posts/my-first-post/</link>
+  <pubDate>Tue, 30 Jul 2024 15:58:26 &#43;0800</pubDate>
+  <author>suisbuds</author>
+  <guid>https://suisbuds.github.io/posts/my-first-post/</guid>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="/images/always.png" alt="My first post" title="My first post" referrerpolicy="no-referrer"/></div><p>博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。</p>]]></description>
+</item>
+</channel>
 </rss>
