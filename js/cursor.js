@@ -1,4 +1,4 @@
-// =====鼠标特效
+// =====鼠标点击特效，彩色泡泡
 function clickEffect() {
   console.log("初始化鼠标特效-clickEffect!");
   let balls = [];
