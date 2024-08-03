@@ -1,4 +1,4 @@
-if (document.body.clientWidth > 992) {
+if (document.body.clientWidth > 0) {
     function getBasicInfo() {
         /* 窗口高度 */
         var ViewH = $(window).height();
@@ -57,7 +57,7 @@ if (document.body.clientWidth > 992) {
                     "border-radius": setting.borderRadius,
                     'right': setting.right,
                     'background-image': 'url(' + setting.scImg + ')',
-                    'background-image': '-webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent)', 'border-radius': '2em',
+                    // 'background-image': '-webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent)', 'border-radius': '2em',
                     'background-size': 'contain'
                 });
             $("#" + setting.nekoname)
@@ -84,7 +84,7 @@ if (document.body.clientWidth > 992) {
                             "border-radius": setting.borderRadius,
                             'right': setting.right,
                             'background-image': 'url(' + setting.scImg + ')',
-                            'background-image': '-webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent)', 'border-radius': '2em',
+                            // 'background-image': '-webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent)', 'border-radius': '2em',
                             'background-size': 'contain'
                         });
                     $("#" + setting.nekoname)
