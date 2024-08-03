@@ -12,7 +12,15 @@
   <pubDate>Tue, 30 Jul 2024 15:58:26 &#43;0800</pubDate>
   <author>suisbuds</author>
   <guid>https://suisbuds.github.io/posts/my-first-post/</guid>
-  <description><![CDATA[<div class="featured-image"><img loading="eager" src="/images/always.png" alt="My first post" title="My first post" referrerpolicy="no-referrer"/></div><p>博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="/images/always.png" alt="My first post" title="My first post" referrerpolicy="no-referrer"/></div><p>博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hello world</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
 </item>
 </channel>
 </rss>
