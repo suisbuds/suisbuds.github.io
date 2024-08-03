@@ -32,7 +32,7 @@ _我想睡觉💤️_
 /**
  * @suisbuds
  * Licensed under CC BY-NC-SA 4.0
- * @since 2018-05-28 20:01:01
+ * @since 2024-07-30
  */
 class Blog {
   constructor(name, author, url) {

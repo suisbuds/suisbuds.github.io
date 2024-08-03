@@ -1,4 +1,3 @@
-// 挂绳小猫咪动画
 if (document.body.clientWidth > 992) {
     function getBasicInfo() {
         /* 窗口高度 */
@@ -34,7 +33,6 @@ if (document.body.clientWidth > 992) {
                 zoom: 0.9,
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
-                // 这里可以换为你喜欢的图片，例如我就换为了雪人，但是要抠图
                 nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
                 hoverMsg: "喵喵喵~",
                 color: "#6f42c1",
@@ -132,9 +130,9 @@ if (document.body.clientWidth > 992) {
             nekoname:'neko1', //nekoname，相当于id
             nekoImg:'img/猫咪.png', //neko的背景图片
             scImg:"img/绳1.png", //绳子的背景图片
-            bgcolor:'#1e90ff', //背景颜色，没有绳子背景图片时有效
+            bgcolor:'#3498db', //背景颜色，没有绳子背景图片时有效
             zoom:0.9, //绳子长度的缩放值
-            hoverMsg:'你好~喵', //鼠标浮动到neko上方的对话框信息
+            hoverMsg:'你好', //鼠标浮动到neko上方的对话框信息
             right:'100px', //距离页面右边的距离
             fontFamily:'楷体', //对话框字体
             fontSize:'14px', //对话框字体的大小
