@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Hh - 分类  |  suisbuds&#39;s blog</title>
-    <link>http://localhost:45329/categories/hh/</link>
-    <description>Hh - 分类 | suisbuds&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>suisbuds@gmail.com (suisbuds)</managingEditor>
-      <webMaster>suisbuds@gmail.com (suisbuds)</webMaster><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议</copyright><atom:link href="http://localhost:45329/categories/hh/" rel="self" type="application/rss+xml" /></channel>
-</rss>

@@ -1,10 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Draft - 分类  |  suisbuds</title>
-    <link>https://suisbuds.github.io/categories/draft/</link>
-    <description>Draft - 分类 | suisbuds</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>suisbuds@gmail.com (suisbuds)</managingEditor>
-      <webMaster>suisbuds@gmail.com (suisbuds)</webMaster><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议</copyright><lastBuildDate>Tue, 30 Jul 2024 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://suisbuds.github.io/categories/draft/" rel="self" type="application/rss+xml" /><item>
+    <title>草稿 - 标签  |  suisbuds</title>
+    <link>https://suisbuds.github.io/tags/%E8%8D%89%E7%A8%BF/</link>
+    <description>草稿 - 标签 | suisbuds</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议</copyright><lastBuildDate>Tue, 30 Jul 2024 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://suisbuds.github.io/tags/%E8%8D%89%E7%A8%BF/" rel="self" type="application/rss+xml" /><item>
   <title>My first post</title>
   <link>https://suisbuds.github.io/posts/my-first-post/</link>
   <pubDate>Tue, 30 Jul 2024 15:58:26 &#43;0800</pubDate>
@@ -18,7 +17,7 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hello world</span></span></code></pre></td></tr></table>
 </div>
-</div>]]></description>
+</div><!-- md里面的参数配置可以覆盖hugo.toml，可以在md里设置不引入自定义js或css文件 -->]]></description>
 </item>
 </channel>
 </rss>

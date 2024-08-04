@@ -7,6 +7,7 @@
 hello world
 
 ```
+&lt;!-- md里面的参数配置可以覆盖hugo.toml，可以在md里设置不引入自定义js或css文件 --&gt;
 
 
 &lt;!--more--&gt;
@@ -14,6 +15,6 @@ hello world
 
 ---
 
-> 作者:   
+> 作者: suisbuds  
 > URL: https://suisbuds.github.io/posts/my-first-post/  
 

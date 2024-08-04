@@ -3,8 +3,7 @@
     <title>suisbuds</title>
     <link>https://suisbuds.github.io/</link>
     <description>suisbuds</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>suisbuds@gmail.com (suisbuds)</managingEditor>
-      <webMaster>suisbuds@gmail.com (suisbuds)</webMaster><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议</copyright><lastBuildDate>Sat, 03 Aug 2024 20:02:00 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议</copyright><lastBuildDate>Sat, 03 Aug 2024 20:02:00 &#43;0800</lastBuildDate>
       <atom:link href="https://suisbuds.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>My first post</title>
@@ -20,7 +19,7 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hello world</span></span></code></pre></td></tr></table>
 </div>
-</div>]]></description>
+</div><!-- md里面的参数配置可以覆盖hugo.toml，可以在md里设置不引入自定义js或css文件 -->]]></description>
 </item>
 </channel>
 </rss>
