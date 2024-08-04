@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+    
+  .wrapper {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+  }
+  
+  .card-container {
+    background: rgba(255, 255, 255, 0.9); /* 半透明白色背景 */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+    max-width: 800px;
+    /* margin: 20px auto; 使卡片居中 */
+  }
+  
+
+  
+  /* 为暗黑模式设置不同的背景图片 */
+  [data-theme='dark'] .background-overlay {
+    background-image: url('/images/dark-background.jpg');
+  }
+  
+  [data-theme='dark'] .card-container {
+    background: rgba(0, 0, 0, 0.8); /* 暗黑模式下的卡片背景 */
+    color: #ffffff; /* 暗黑模式下的文本颜色 */
+  }
+  
